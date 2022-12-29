@@ -1,2 +1,2 @@
-# os
-iso files for OS
+# automated-softs
+run .bat file 
